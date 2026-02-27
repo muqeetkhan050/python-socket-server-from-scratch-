@@ -13,3 +13,6 @@ Features:
 - Query parameter parsing
 
 This project is for learning backend fundamentals and understanding how web frameworks work internally.
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/820230c0-d36e-436e-a8fd-1a932c377c7f" />
